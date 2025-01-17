@@ -5,7 +5,7 @@ Logic behind functions and how to run them in terminal.
 
 To start, navigate to where the .py files for my functions are and open a python session in terminal by writing "python" to the terminal and pushing enter.
 
-I've already included all the extra/lists and dictionaries that the functions use within their .py files. So, in the python section, write and run both `from extract_parameter.py import *` and `from calculate_solution_weights.py import *`
+I've already included all the extra lists and dictionaries that the functions use within their .py files. So, in the python session, write and run both `from extract_parameter.py import *` and `from calculate_solution_weights.py import *`
 
 You can then test run `extract_parameter("distillation_column", "temperature", 1)` and `calculate_solution_weights(molecular_weights, solutions_needed)`, respectively, for each function. The answers should be printed to the console. You can also save the answers to a variable if you would like.
 
